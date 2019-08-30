@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.krry.entity.User;
 import com.krry.repository.UserRepository;
+import org.springframework.web.bind.annotation.RestController;
 
 //使用@Controller 才可以返回html页面，使用@ResController 返回的是字符串
 @Controller

@@ -1,12 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c8abfbb-4a99-4c6b-b25e-86b8551b1caf" name="Default Changelist" comment="" />
+    <list default="true" id="1c8abfbb-4a99-4c6b-b25e-86b8551b1caf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/controller/nUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/controller/tBlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/entity/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/entity/DUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/entity/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/entity/SHAencrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/entity/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/entity/handIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/entity/newReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/entity/result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/entity/tBlog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/entity/tstType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/repository/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/repository/TagRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/repository/tBlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krry/repository/tstTypeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_mongodb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_mongodb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/krry/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/krry/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/krry/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/krry/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/krry/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/krry/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/springboot_mongodb.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/krry/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/krry/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/krry/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/krry/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/krry/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/krry/repository/UserRepository.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -16,6 +75,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Px6JoAn3YTERjGvKecFGIycp4N" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -23,15 +85,21 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566736594352" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mongo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.krry.nCntrl" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,7 +113,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MongoDBApllication">
+    <configuration name="MongoDBApllication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.krry.MongoDBApllication" />
+      <module name="springboot_mongodb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MongoDBApllication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springboot_mongodb" />
       <extension name="coverage">
@@ -61,7 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.MongoDBApllication" />
+        <item itemvalue="Application.MongoDBApllication" />
       </list>
     </recent_temporary>
   </component>
@@ -78,11 +159,38 @@
       <workItem from="1566723080729" duration="1367000" />
       <workItem from="1566729418348" duration="6613000" />
       <workItem from="1566803339088" duration="320000" />
+      <workItem from="1566818944658" duration="7269000" />
+      <workItem from="1566871475849" duration="1340000" />
+      <workItem from="1566873686050" duration="13477000" />
+      <workItem from="1566904812314" duration="4434000" />
+      <workItem from="1566912644178" duration="2647000" />
+      <workItem from="1566946026529" duration="752000" />
+      <workItem from="1566949322031" duration="19508000" />
+      <workItem from="1566991674663" duration="5947000" />
+      <workItem from="1567041089779" duration="1964000" />
+      <workItem from="1567046866906" duration="451000" />
+      <workItem from="1567049169813" duration="2127000" />
+      <workItem from="1567057160527" duration="1133000" />
+      <workItem from="1567058526220" duration="6541000" />
+      <workItem from="1567083328818" duration="3359000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>

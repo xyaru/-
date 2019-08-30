@@ -4,6 +4,8 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 
 import com.krry.entity.User;
 
+import java.util.List;
+
 
 public interface UserRepository extends MongoRepository<User, String> {
 /**
@@ -12,5 +14,8 @@ public interface UserRepository extends MongoRepository<User, String> {
  * Username
  * 
  */
-	public User findByUsername(String username);
+    public List<User> findByUsernameLike(String username);
+    public User findByUsername(String username);
+
+	public User findBy_id(String _id);
 }
